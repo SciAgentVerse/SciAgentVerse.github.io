@@ -92,7 +92,7 @@ p { margin: 0 0 1em; }
   min-height: 560px;
   display: flex; align-items: center;
   color: #fff;
-  background: var(--navy-900) url("../assets/img/hero.jpg") 22% center / cover no-repeat;
+  background: var(--navy-900) url("../assets/img/hero-1000-new.jpg") right center / cover no-repeat;
 }
 .hero::before {
   content: ""; position: absolute; inset: 0;
@@ -143,7 +143,7 @@ p { margin: 0 0 1em; }
 /* ---------- Page header (sub-pages) ---------- */
 .page-header {
   position: relative; color: #fff; padding: 64px 0 52px;
-  background: var(--navy-900) url("../assets/img/hero-1000.jpg") right center / cover no-repeat;
+  background: var(--navy-900) url("../assets/img/hero-1000-new.jpg") right center / cover no-repeat;
 }
 .page-header::before {
   content: ""; position: absolute; inset: 0;
